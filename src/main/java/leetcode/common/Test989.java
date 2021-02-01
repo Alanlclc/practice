@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.common;
 
 /**
  * 对于非负整数X而言，X的数组形式是每位数字按从左到右的顺序形成的数组。例如，如果X = 1231，那么其数组形式为[1,2,3,1]。
@@ -13,7 +13,6 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Stack;
 
 public class Test989 {
 

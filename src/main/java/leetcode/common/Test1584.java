@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.common;
 
 
 /**
@@ -11,7 +11,6 @@ package leetcode;
  */
 
 import java.util.*;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class Test1584 {
 
